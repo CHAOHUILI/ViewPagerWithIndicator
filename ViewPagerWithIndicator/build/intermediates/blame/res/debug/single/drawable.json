@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Users\\john\\AndroidStudioProjects\\Camera\\_03_轮播图广告\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_bg_point.xml",
+        "source": "D:\\Users\\john\\AndroidStudioProjects\\Camera\\_03_轮播图广告\\src\\main\\res\\drawable\\selector_bg_point.xml"
+    },
+    {
+        "merged": "D:\\Users\\john\\AndroidStudioProjects\\Camera\\_03_轮播图广告\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_bg_point_enable.xml",
+        "source": "D:\\Users\\john\\AndroidStudioProjects\\Camera\\_03_轮播图广告\\src\\main\\res\\drawable\\shape_bg_point_enable.xml"
+    },
+    {
+        "merged": "D:\\Users\\john\\AndroidStudioProjects\\Camera\\ViewPagerWithIndicator\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_bg_point_enable.xml",
+        "source": "D:\\Users\\john\\AndroidStudioProjects\\Camera\\ViewPagerWithIndicator\\src\\main\\res\\drawable\\shape_bg_point_enable.xml"
+    },
+    {
+        "merged": "D:\\Users\\john\\AndroidStudioProjects\\Camera\\_03_轮播图广告\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_bg_point_disable.xml",
+        "source": "D:\\Users\\john\\AndroidStudioProjects\\Camera\\_03_轮播图广告\\src\\main\\res\\drawable\\shape_bg_point_disable.xml"
+    },
+    {
+        "merged": "D:\\Users\\john\\AndroidStudioProjects\\Camera\\ViewPagerWithIndicator\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_bg_point_disable.xml",
+        "source": "D:\\Users\\john\\AndroidStudioProjects\\Camera\\ViewPagerWithIndicator\\src\\main\\res\\drawable\\shape_bg_point_disable.xml"
+    },
+    {
+        "merged": "D:\\Users\\john\\AndroidStudioProjects\\Camera\\ViewPagerWithIndicator\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_bg_point.xml",
+        "source": "D:\\Users\\john\\AndroidStudioProjects\\Camera\\ViewPagerWithIndicator\\src\\main\\res\\drawable\\selector_bg_point.xml"
+    }
+]
